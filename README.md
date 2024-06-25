@@ -1,4 +1,4 @@
-# Visionary-Linear-Algebra
+# Machine Vision Project
 
 We will first establish a grounding in the requisite areas of Linear Algebra; and learn to use the NumPy library. We will then apply these to basic Machine Vision problems, such as distinguishing hand-written digits in the MNIST data set. Finally, we will apply those techniques to a Machine Vision solution to differentiate real-world objects, such as dogs and cats.
 
